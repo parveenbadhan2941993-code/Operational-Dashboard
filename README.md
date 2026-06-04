@@ -1,4 +1,5 @@
 # 🏭 Operational Dashboard
+https://drive.google.com/file/d/1_tC8kXz3Yxon6XrSbTDfWmLPqUZwi8Aq/view?usp=sharing
 
 ## 📌 Project Overview
 The Operational Dashboard is an end-to-end Business Intelligence project developed using **SQL, Power BI, and DAX** to analyze manufacturing operations and support data-driven decision-making. The project focuses on monitoring production performance, product quality, operational efficiency, and cost trends across multiple factories through interactive dashboards and KPI reporting.
